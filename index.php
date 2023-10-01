@@ -13,7 +13,11 @@
         <!-- cabecalho-->
         <div class="jumbotron">
             <div class="col">
+<<<<<<< HEAD
                 <h1> Loja 1kestilos </h1>
+=======
+                <h1> Loja Virtual </h1>
+>>>>>>> 0b494824b23408a5c8c903c50d3047708e3e296f
             </div>
             <div>
                 <h4><span class="badge badge-light"> Autor: Gelmer Apaza C. v1.0.0</span></h4>
